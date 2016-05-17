@@ -1439,7 +1439,7 @@
   padding: 6px 8px;
   font-size: 0.9em;
   color: white;
-  background-color: #547f00;
+  background-color: #247fba;
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
   -o-border-radius: 4px;
@@ -1449,7 +1449,7 @@
 }
 .swagger-section #explore:hover,
 .swagger-section #auth_container .authorize__btn:hover {
-  background-color: #547f00;
+  background-color: #006ea5;
 }
 .swagger-section #header #logo {
   font-size: 1.5em;
